@@ -6,3 +6,13 @@
 <li>Exportar la tabla de datos en un archivo excel o xlsx</li>
 <li>Gestionar credenciales de acceso para la plataforma</li>
 </ul>
+<figure>
+    <figcaption>Tecnologías o herramientas utilizadas</figcaption>
+    <ul>
+        <li>Next Js</li>
+        <li>TypeScript</li>
+        <li>Tailwind Css</li>
+        <li>Mongo Db</li>
+        <li>Supabase (auth)</li>
+    </ul>
+</figure>
